@@ -6,6 +6,9 @@ Curso de Python do professor Bruno
 - Aula 03: Variáveis em Python
 - Aula 04: Tipos de dados em Python
 - Aula 05: Tipos numéricos, random e operações de casting
+- Aula 06: Strings Parte 01
+- Aula 07: Strgins Parte 02
+
 
 ## :computer: Ferramentas utilizadas:
 
