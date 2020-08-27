@@ -9,6 +9,7 @@ Curso de Python do professor Bruno
 - Aula 06: Strings Parte 01
 - Aula 07: Strgins Parte 02
 - Aula 08: Tipo Boolean
+- Aula 09: Coleção List
 
 ## :computer: Ferramentas utilizadas:
 
