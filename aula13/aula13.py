@@ -1,4 +1,7 @@
 # Função Input
+import os
+os.system("cls") #limpar tela do terminal
+
 numero1 = float(input("Informe o primeiro valor: "))
 numero2 = float(input("Informe o segundo valor: "))
 
