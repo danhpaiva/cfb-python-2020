@@ -4,8 +4,8 @@ os.system("cls")
 print("Cadastro de Turmas")
 
 turma = [
-    [1, ["Aluno", "Aluno2"]],
-    [2, ["Aluno", "Alunos2"]]
+    [1, ["#####", "#####"]],
+    [2, ["#####", "#####"]]
 ]
 
 controlador = "0"
@@ -18,7 +18,7 @@ codturma = 1
 
 while controlador != "1":
 
-    # Controle para cadastrar a segunda
+    # Controle para cadastrar a segunda turma
     if i == 1:
         j = 0
         k = 0
@@ -26,6 +26,7 @@ while controlador != "1":
     print("Informe o codigo da " + str(codturma) + "ª turma: ")
     turma[i][j] = int(input())
 
+    # Controle para cadastrar os alunos
     while controlador2 <= 1:
         j = 1
         turma[i][j][k] = input("Informe o nome do " +
@@ -34,6 +35,7 @@ while controlador != "1":
         controlador2 += 1
         k += 1
 
+    #Controle para sair do programa caso as duas turmas já estejam cadastradas
     if codturma == 2:
         break
     else:
