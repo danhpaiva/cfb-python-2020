@@ -14,6 +14,7 @@ Curso de Python do professor Bruno
 - Aula 11: Condicional If Elif Else
 - Aula 12: Loop For
 - Aula 13: Função input
+- Aula 14: Loop While
 
 ## :computer: Ferramentas utilizadas:
 
