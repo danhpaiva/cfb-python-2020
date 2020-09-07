@@ -13,7 +13,7 @@ Curso de Python do professor Bruno
 - Aula 10: Como usar o comando IF em Python
 - Aula 11: Condicional If Elif Else
 - Aula 12: Loop For
-- Aula 13: Função Input
+- Aula 13: Função input
 
 ## :computer: Ferramentas utilizadas:
 
