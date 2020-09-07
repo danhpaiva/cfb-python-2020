@@ -12,6 +12,7 @@ Curso de Python do professor Bruno
 - Aula 09: Coleção List
 - Aula 10: Como usar o comando IF em Python
 - Aula 11: Condicional If Elif Else
+- Aula 12: Loop For
 
 ## :computer: Ferramentas utilizadas:
 
