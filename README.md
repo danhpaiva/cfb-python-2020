@@ -16,6 +16,7 @@ Curso de Python do professor Bruno
 - Aula 13: Função input
 - Aula 14: Loop While
 - Aula 15: Tuplas
+- Aula 16: Matrizes
 
 ## :computer: Ferramentas utilizadas:
 
