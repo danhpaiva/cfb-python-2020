@@ -15,6 +15,7 @@ Curso de Python do professor Bruno
 - Aula 12: Loop For
 - Aula 13: Função input
 - Aula 14: Loop While
+- Aula 15: Tuplas
 
 ## :computer: Ferramentas utilizadas:
 
