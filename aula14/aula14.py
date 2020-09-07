@@ -32,3 +32,16 @@ while i < tamanho:
     print(carros[i])
     i += 1
 print("\nFim do loop")
+
+# Possibilidade 04
+os.system("cls")
+
+carros = []
+carro = input("Digite o nome do novo carro: ")
+
+while carro != "-1":
+    carros.append(carro)
+    carro = input("Digite o nome do novo carro: ")
+
+print(carros)
+print("\nFim do loop")
