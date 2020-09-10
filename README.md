@@ -18,6 +18,7 @@ Curso de Python do professor Bruno
 - Aula 15: Tuplas
 - Aula 16: Matrizes
 - Aula 17: Dictionary
+- Aula 18: Jogo de Adivinhação em Python
 
 ## :computer: Ferramentas utilizadas:
 
