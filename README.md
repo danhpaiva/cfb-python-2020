@@ -17,6 +17,7 @@ Curso de Python do professor Bruno
 - Aula 14: Loop While
 - Aula 15: Tuplas
 - Aula 16: Matrizes
+- Aula 17: Dictionary
 
 ## :computer: Ferramentas utilizadas:
 
