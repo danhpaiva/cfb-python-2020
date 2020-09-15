@@ -1,6 +1,6 @@
-# Curso de Python
+# Curso de Python :smile:
 
-Curso de Python do canal CFC Cursos
+Curso completo de Python do canal CFC Cursos
 
 ## Tópicos de aulas
 - Aula 01: Hello World
