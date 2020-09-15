@@ -1,6 +1,8 @@
-# Curso Python
+# Curso de Python
 
-Curso de Python do professor Bruno
+Curso de Python do canal CFC Cursos
+
+## Tópicos de aulas
 - Aula 01: Hello World
 - Aula 02: Sintaxe básica P2 e Comentários
 - Aula 03: Variáveis em Python
