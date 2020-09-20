@@ -21,6 +21,7 @@ Curso completo de Python do canal CFC Cursos
 - Aula 16: Matrizes
 - Aula 17: Dictionary
 - Aula 18: Jogo de Adivinhação em Python
+- Aula 19: Funções P1
 
 ## :computer: Ferramentas utilizadas:
 
