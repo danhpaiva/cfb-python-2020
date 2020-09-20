@@ -22,6 +22,7 @@ Curso completo de Python do canal CFC Cursos
 - Aula 17: Dictionary
 - Aula 18: Jogo de Adivinhação em Python
 - Aula 19: Funções P1
+- Aula 20: Funções P2 - Argumento de Entrada
 
 ## :computer: Ferramentas utilizadas:
 
