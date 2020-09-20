@@ -1,7 +1,6 @@
 import os
 os.system("cls")
 
-
 def somar(*numero):
     r = 0
 
@@ -21,3 +20,19 @@ def textos(*txt):
 textos("Daniel", "Paiva", "Python")
 
 textos("Linux", "Windows", "Mac", "Others")
+
+def carros(c="Palio"):
+    print("Modelo: " + c)
+
+carros("HRV ")
+carros()
+
+valores = [1,3,5,10,2]
+
+def multiplicar(numero):
+    resultado = 1
+    for n in numero:
+        resultado *= n
+    print("Multiplicação de valores da lista passada: " + str(resultado))
+
+multiplicar(valores)
