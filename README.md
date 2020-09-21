@@ -25,6 +25,8 @@ Curso completo de Python do canal CFC Cursos
 - Aula 20: Funções P2 - Argumento de Entrada
 - Aula 21: Funções P3 - Retorno de valores
 - Aula 22: Funções Lambda
+- Aula 23: POO - Classes / P1
+- Aula 24: POO - Classes / P2 / Construtor e métodos
 
 ## :computer: Ferramentas utilizadas:
 
