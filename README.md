@@ -23,7 +23,8 @@ Curso completo de Python do canal CFC Cursos
 - Aula 18: Jogo de Adivinhação em Python
 - Aula 19: Funções P1
 - Aula 20: Funções P2 - Argumento de Entrada
-- Aula 21: Funções P3 - Retorno de valores  
+- Aula 21: Funções P3 - Retorno de valores
+- Aula 22: Funções Lambda
 
 ## :computer: Ferramentas utilizadas:
 
