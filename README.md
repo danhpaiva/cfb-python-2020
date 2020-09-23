@@ -27,6 +27,7 @@ Curso completo de Python do canal CFC Cursos
 - Aula 22: Funções Lambda
 - Aula 23: POO - Classes / P1
 - Aula 24: POO - Classes / P2 / Construtor e métodos
+- Aula 25: POO - Herança / P3
 
 ## :computer: Ferramentas utilizadas:
 
